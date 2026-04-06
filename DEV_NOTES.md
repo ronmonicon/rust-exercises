@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Verified API endpoint response schema
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-06
+- Added inline documentation for core functions
+- Updated CI cache strategy
