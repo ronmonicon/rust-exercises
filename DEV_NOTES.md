@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Added basic retry logic for network requests
 - Added healthcheck endpoint stub
+
+## 2026-04-06
+- Verified API endpoint response schema
+- Updated .gitignore to exclude build artifacts
